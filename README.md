@@ -1,6 +1,6 @@
 # Student Exam Data ETL Pipeline with Apache Airflow
 
-![Airflow Logo](https://raw.githubusercontent.com/apache/airflow/main/docs/apache-airflow-logo.png)
+![Airflow Logo](https://raw.githubusercontent.com/apache/airflow/main/docs/img/logos/apache-airflow-logo.png)
 
 Welcome to the **Student Exam Data ETL Pipeline** repository! This project demonstrates the power of Apache Airflow in orchestrating a robust and efficient Extract-Transform-Load (ETL) process for student exam data.
 
